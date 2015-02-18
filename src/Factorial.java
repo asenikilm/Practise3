@@ -1,5 +1,5 @@
 import java.math.BigInteger;
-
+//factorial
 public class Factorial {
 
 	public static BigInteger fact(int n){
@@ -14,4 +14,5 @@ public class Factorial {
 			
 	}
 
+   //for counting big numbers
 }
